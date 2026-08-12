@@ -3,7 +3,7 @@ Using a button as an input to turn on the LED.
 
 I also learned how the circuit works using Claude AI to help me visualise the circuits. 
 
-##Figure 1 - The whole circuit
+## Figure 1 - The whole circuit
 
 <img width="1440" height="1252" alt="image" src="https://github.com/user-attachments/assets/6a98fbc9-d4f7-4b3f-a319-f8c0c50ceb5f" />
 
