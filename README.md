@@ -7,7 +7,7 @@ I also learned how the circuit works using Claude AI to help me visualise the ci
 
 <img width="1440" height="1252" alt="image" src="https://github.com/user-attachments/assets/6a98fbc9-d4f7-4b3f-a319-f8c0c50ceb5f" />
 
-##Figure 2 - The separate circuits
+## Figure 2 - The separate circuits
 <img width="1440" height="1040" alt="image" src="https://github.com/user-attachments/assets/ac8ae831-11f8-44c4-bf19-0f265d8061fd" />
 
 
