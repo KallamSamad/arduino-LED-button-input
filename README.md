@@ -17,5 +17,5 @@ Then the program I wrote compiles and if the voltage of the button is HIGH, If i
 
 
 ## Video
-<span style="color:red">Click Thumbnail to see the full Video demonstration of variable light intensity</span>
+<span style="color:red">Click Thumbnail to see the full Video demonstration /span>
 [![Arduino LED demonstration](thumbnail.png)](https://drive.google.com/file/d/13K_CdQw_D3WXQBbHMqTLv0AoAJD6V06U/view?usp=drive_link)
